@@ -1,0 +1,1 @@
+Se desarrollará una página web con un curriculum
